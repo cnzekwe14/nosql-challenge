@@ -1,1 +1,3 @@
 # nosql-challenge
+The data focused on using mongodb and jupyter notebook to import uk_food standard evaluations across various establishments in the United Kingdom.  The analysis consisted of two jupyter notebook.  The first jupyter notebook is called 'NoSQL_setup_starter.ipynb.  The first notebook imports uk_food datbase into the notebook.  It inserts a new establishment into the uk_food database as well as locate Dover establishments and converts latitude and longitude to a decimal.
+The second jupyter notebook is called 'NoSQL_analysis_starter.ipynb.  This notebook counts documents in the database, filters by specific names in order to find the rating value and conducts aggregation to get the top establishment based on 0 hygiene.
